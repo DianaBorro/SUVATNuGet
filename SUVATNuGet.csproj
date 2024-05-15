@@ -1,0 +1,19 @@
+﻿﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <PackageId>DianaBorro.Physics.SUVATOperations</PackageId>
+    <Authors>Diana Borro</Authors>
+    <Description>
+      Library for calculating displacement, initial velocity, final velocity, and acceleration using the SUVAT equations of motion.
+    </Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>
+      Suvat, SuvatOperations, SuvatEquations, Physics, Displacement, Initial velocity, InitialVelocity, Velocity, Final velocity, Acceleration, Equations, s, u, v, a, t
+    </PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
