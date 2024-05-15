@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DianaBorro.Physics.SUVATEquations</id>
+    <version>1.0.0</version>
+    <authors>Diana Borro</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Library for calculating displacement, initial velocity, final velocity, and acceleration using the SUVAT equations of motion.</description>
+    <tags>Suvat, SuvatOperations, Operations, SuvatEquations, Equations, Physics, Displacement, Initial, InitialVelocity, Velocity, FinalVelocity, Acceleration, s, u, v, a, t</tags>
+    <repository type="git" commit="f8f1b6432fd69ace6e351aeed5f3b62c702cb639" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/salt-dev/DianaExercises/NuGetExercises/SUVATNuGet/bin/Release/net8.0/SUVATNuGet.dll" target="lib/net8.0/SUVATNuGet.dll" />
+  </files>
+</package>

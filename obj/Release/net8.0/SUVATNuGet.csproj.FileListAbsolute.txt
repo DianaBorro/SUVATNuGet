@@ -1,0 +1,12 @@
+/Users/salt-dev/DianaExercises/NuGetExercises/SUVATNuGet/bin/Release/net8.0/SUVATNuGet.deps.json
+/Users/salt-dev/DianaExercises/NuGetExercises/SUVATNuGet/bin/Release/net8.0/SUVATNuGet.dll
+/Users/salt-dev/DianaExercises/NuGetExercises/SUVATNuGet/bin/Release/net8.0/SUVATNuGet.pdb
+/Users/salt-dev/DianaExercises/NuGetExercises/SUVATNuGet/obj/Release/net8.0/SUVATNuGet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salt-dev/DianaExercises/NuGetExercises/SUVATNuGet/obj/Release/net8.0/SUVATNuGet.AssemblyInfoInputs.cache
+/Users/salt-dev/DianaExercises/NuGetExercises/SUVATNuGet/obj/Release/net8.0/SUVATNuGet.AssemblyInfo.cs
+/Users/salt-dev/DianaExercises/NuGetExercises/SUVATNuGet/obj/Release/net8.0/SUVATNuGet.csproj.CoreCompileInputs.cache
+/Users/salt-dev/DianaExercises/NuGetExercises/SUVATNuGet/obj/Release/net8.0/SUVATNuGet.sourcelink.json
+/Users/salt-dev/DianaExercises/NuGetExercises/SUVATNuGet/obj/Release/net8.0/SUVATNuGet.dll
+/Users/salt-dev/DianaExercises/NuGetExercises/SUVATNuGet/obj/Release/net8.0/refint/SUVATNuGet.dll
+/Users/salt-dev/DianaExercises/NuGetExercises/SUVATNuGet/obj/Release/net8.0/SUVATNuGet.pdb
+/Users/salt-dev/DianaExercises/NuGetExercises/SUVATNuGet/obj/Release/net8.0/ref/SUVATNuGet.dll

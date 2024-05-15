@@ -1,4 +1,4 @@
-﻿﻿namespace SUVATNuGet;
+﻿namespace SUVATNuGet;
 
 public class SUVATEquations
 {

@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/salt-dev/DianaExercises/NuGetExercises/SUVATNuGet/SUVATNuGet.csproj",
-        "projectName": "SUVATNuGet",
+        "projectName": "DianaBorro.Physics.SUVATEquations",
         "projectPath": "/Users/salt-dev/DianaExercises/NuGetExercises/SUVATNuGet/SUVATNuGet.csproj",
         "packagesPath": "/Users/salt-dev/.nuget/packages/",
         "outputPath": "/Users/salt-dev/DianaExercises/NuGetExercises/SUVATNuGet/obj/",
