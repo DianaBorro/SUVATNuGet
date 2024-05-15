@@ -1,6 +1,6 @@
 # SUVAT Operations Library
 
-![GitHub license](https://img.shields.io/github/license/DianaBorro/SUVATNuGet)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DianaBorro/SUVATNuGet)
 [![Nuget](https://img.shields.io/nuget/v/SUVATNuGet)](https://www.nuget.org/packages/DianaBorro.Physics.SUVATEquations/)
 
