@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DianaBorro/SUVATNuGet)
-[![Nuget](https://img.shields.io/nuget/v/SUVATNuGet)](https://www.nuget.org/packages/DianaBorro.Physics.SUVATEquations/)
 
 The SUVAT Equations Library is a C# library that provides methods for calculating displacement, initial velocity, final velocity, and acceleration using the SUVAT equations of motion. This library simplifies the process of performing kinematic calculations in C# applications.
 
