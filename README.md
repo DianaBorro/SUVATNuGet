@@ -16,7 +16,7 @@ You can install the SUVAT Operations Library via NuGet Package Manager.
 
 To use the SUVAT Operations Library in your C# project, follow these steps:
 
-1. Install the NuGet package.
+1. Install the NuGet package: `dotnet add package DianaBorro.Physics.SUVATEquations --version 1.0.0`
 2. Import the `SUVATNuGet` namespace in your C# file.
 
 
