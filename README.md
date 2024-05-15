@@ -29,7 +29,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        SUVATOperations suvat = new SUVATOperations();
+        SUVATEquations suvat = new SUVATEquations();
 
         // Calculate displacement using initial velocity, time, and final velocity
         double displacement = suvat.DisplacementUTV(5.0, 2.0, 10.0);
